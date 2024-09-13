@@ -1,4 +1,4 @@
-I developed a Ecommerce App by using MERN Stack.Below i have uploaded some sreenshots of my Website.
+I developed a Ecommerce App by using MERN Stack.Below i have uploaded some screenshots of my Website.
 ## Screenshots
 ## Home Page:
 ![Screenshot (16)](https://github.com/user-attachments/assets/22640a94-3c40-4b54-a29a-58d52318b0a8)
